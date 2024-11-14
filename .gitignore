@@ -1,0 +1,115 @@
+# General files
+.DS_Store
+Thumbs.db
+
+# ====================
+# C++ Section
+# ====================
+
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Test and Coverage files
+*.gcno
+*.gcda
+*.gcov
+
+# Build directories
+/build/
+/bin/
+/CMakeFiles/
+/cmake-build-debug/
+/cmake-build-release/
+
+# IDE files
+/.idea/
+/.vscode/
+*.code-workspace
+
+# CMake files
+CMakeCache.txt
+CMakeLists.txt.user
+
+# ====================
+# C# Section
+# ====================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio files
+.vs/
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vspscc
+*.dbmdl
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
